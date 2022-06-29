@@ -4,7 +4,7 @@
 ### I'm 🚀 **Web Developer | Frontend Developer**	
 ### I wanna be 🎯 **React Specialist | Senior Frontend Developer**	
 
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vhrita&count_private=true&show_icons=true&theme=dracula)
+![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vhrita&count_private=true&show_icons=true&hide=contribs&custom_title=My+GitHub+Stats&theme=dracula)
 
 ## My stack 🚀
 
