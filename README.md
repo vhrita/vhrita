@@ -4,12 +4,11 @@
 ### I'm a 🚀 **Web Developer | Frontend Developer**	
 ### I wanna be a 🎯 **React Specialist | Senior Frontend Developer**
 
-<div style="max-width: 100%; display: block;">
 <a align="center" href="https://github.com/vhrita">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vhrita&count_private=true&show_icons=true&hide=contribs&custom_title=My+GitHub+Stats&theme=dracula" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhrita&layout=compact&theme=dracula&langs_count=5&exclude_repo=vhrita,python-cleaner,vhrita.github.io" />
+<img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=vhrita&count_private=true&show_icons=true&hide=contribs&custom_title=My+GitHub+Stats&theme=dracula" />
+&nbsp;
+<img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhrita&layout=compact&theme=dracula&langs_count=5&exclude_repo=vhrita,python-cleaner,vhrita.github.io" />
 </a>
-<div>
 
 ## My stack 🚀
 
