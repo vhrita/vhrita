@@ -12,7 +12,7 @@
 ## My stack 🚀
 
 <div width="100%">
-<a href='https://www.react.org/'>
+<a href='https://www.reactjs.org/'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40px" />
 </a>
 &nbsp;
