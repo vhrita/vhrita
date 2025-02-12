@@ -1,6 +1,6 @@
 <div style="display: flex; flex-direction: column; align-items: center;" markdown="1">
 
-# 👋 Sup! I'm Vitor Rita	
+# 👋 Sup! I'm Vitor Rita	🃏 The Wild Card of Software Development
 ### I'm a ***Software Engineer and a FullStack Developer***	🚀
 <p align="justify">I have 6 years of experience in programming and I am passionate about technology. I hate standing still, so I'm always seeking growth and knowledge. I enjoy understanding how things work, which is why I decided to become a programmer. I have chosen to specialize in Javascript and currently work with React.js, Node.js, and Adobe Experience Manager (AEM). I have experience with various technologies and frameworks, and one of my main hobbies is working on side projects to test new technologies.</p>
 
